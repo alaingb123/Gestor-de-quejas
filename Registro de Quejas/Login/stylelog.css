@@ -1,0 +1,76 @@
+body {
+	background-color: #ffffff;
+	font-family: Arial, sans-serif;
+
+}
+
+.login-container {
+	background-color: #fff;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	margin: 100px auto;
+	max-width: 400px;
+	padding: 30px;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+}
+
+h1 {
+	margin-bottom: 30px;
+	text-align: center;
+
+}
+
+label {
+	margin-bottom: 10px;
+}
+
+input {
+	border: none;
+	border-radius: 5px;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+button {
+	background-color: rgb(37, 150, 179);
+	border: none;
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+	font-size: 16px;
+	padding: 10px;
+	transition: background-color 0.3s;
+}
+
+button:hover {
+	background-color: #125cbd;
+}
+
+body {
+	background-image: url(file:///D:/Escuela/PW/Registro%20de%20Quejas/lafoto.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+  }
+h2 {
+	color:rgb(0, 0, 0);
+	font-size: 50px;
+	font-family: Georgia;
+	margin-bottom: 30px;
+	text-align: center;
+	text-shadow: 2px 0 0 rgb(238, 102, 220), -2px 0 0 rgb(116, 229, 233), 0 2px 0 rgb(180, 106, 230), 0 -2px 0 rgb(11, 123, 175), 1px 1px rgb(224, 25, 148), -1px -1px 0 rgb(11, 130, 134), 1px -1px 0 rgb(73, 4, 151), -1px 1px 0 #000;
+}
+
+ 
+
+
+
+
+
+
+
